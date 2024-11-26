@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vishal Chaudhary</h1>
-<h3 align="center">A Python Developer through practice but a Data Scientist at heart.</h3>
+<h3 align="center">An Aspiring Data Analyst who is transitioning from being a Python Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchaudhary-github&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchaudhary-github" /> </p>
 
-- 🔭 I’m currently working on **Refactoring my projects**
+- 🔭 I’m currently working as a Data Analyst/Data Science Trainee at Bosscoder Academy
 
-- 🌱 I’m currently learning **Data Analytics and Data Science**
+- 🌱 I’m currently involved in creating projects that would aid in my Data journey.
 
-- 👨‍💻 All of my projects are available at [https://github.com/VishalChaudhary-Github](https://github.com/VishalChaudhary-Github)
+- 👨‍💻 All of my projects are available at [https://github.com/VishalChaudhary-Github](https://github.com/VishalChaudhary-Github) with more soon to come!
 
-- 💬 Ask me about **Python, Django, DRF, Celery, Redis, SQL, ORM**
+- 💬 Besides having the knowledge of being a python developer, I am absorbing tools and technologies used in the Data Analytics World like SQL, Python lib Pandas, Numpy, Excel, Statistics, Microsoft Power BI.
 
 - 📫 How to reach me **vishalchaudhary5794@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vD_XYCCz396OJJt6M12NTY5CdC0bhXVD/view?usp=sharing](https://drive.google.com/file/d/1vD_XYCCz396OJJt6M12NTY5CdC0bhXVD/view?usp=sharing)
-
-- ⚡ Fun fact **Chai is better than Coffee ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
