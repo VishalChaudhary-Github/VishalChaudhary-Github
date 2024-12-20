@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal Chaudhary</h1>
 <h3 align="center">An Aspiring Data Analyst who is transitioning from being a Python Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalchaudhary-github&label=Profile%20views&color=0e75b6&style=flat" alt="vishalchaudhary-github" /> </p>
-
 - 🔭 I’m currently working as a Data Analyst/Data Science Trainee at Bosscoder Academy
 
 - 🌱 I’m currently involved in creating projects that would aid in my Data journey.
